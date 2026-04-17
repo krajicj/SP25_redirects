@@ -1,1 +1,8 @@
-/ https://sp25.cz
+/                   https://sp25.cz             301
+/eshop/*            https://sp25.cz/eshop/      301
+/kapela/*           https://sp25.cz/kapela/     301
+/koncerty/*         https://sp25.cz/koncerty/   301
+/promo/             https://sp25.cz/promo/      301
+/pro-poradatele/    https://sp25.cz/kontakt/    301
+/z-akci/            https://sp25.cz/galerie/    301
+/*                  https://sp25.cz             301
